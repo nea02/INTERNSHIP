@@ -15,7 +15,7 @@ def robot_popup():
         print(" \\'_'_/ ")
         print("  / | \\ ")
         print(" |  |  |")
-        print(" |  |  |")
+
 
 def n1(id):
     mycursor = mydb.cursor()
